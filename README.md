@@ -1,8 +1,16 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there! I'm Israel Monteiro
 
-![Profile Views](https://komarev.com/ghpvc/?username=IsraelMonteiro&label=Profile%20Views&color=0e75b6&style=flat)  
+<p align="center">
+  <img src="image/Design sem nome.png" alt="Israel Monteiro" width="200" style="border-radius: 50%;" />
+</p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=IsraelMonteiro&label=Profile%20Views&color=0e75b6&style=flat) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-israelsmonteiro-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/israelsmonteiro/)
 [![Lattes](https://img.shields.io/badge/Lattes-Perfil-blue)](https://lattes.cnpq.br/6908410029291276)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=IsraelMonteiro&theme=darkhub&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+
+![Fun Badge](https://img.shields.io/badge/Welcome%20Visitor-You're%20awesome!-%23ff69b4?style=for-the-badge)
 
 ---
 
@@ -18,16 +26,18 @@
 
 ## 👨‍💻 About Me
 
-🔹 I am a **Specialist in Script Development, Queries, and Tools** at **Petrobras EDISE-RJ**  
-🔹 Passionate about **Data Analytics, Business Intelligence, and Automation**  
-🔹 Expertise in **SAP MM, DBeaver, Power BI, Python, SQL, and VBA**  
-🔹 Enthusiastic about **Data Governance, BI Development, and ETL processes**  
+🎯 I'm a **Specialist in Script Development, Queries, and Tools** at **Petrobras EDISE-RJ**, with a strong background in data-driven decision making and process automation.  
+🧠 Passionate about **Data Analytics**, **Business Intelligence**, and the transformative power of **AI & Automation**.  
+💡 Skilled in **SAP MM**, **DBeaver**, **Power BI**, **Python**, **SQL**, and **VBA**, and experienced in building scalable ETL pipelines and visual dashboards.  
+🌐 Committed to **Data Governance**, performance optimization, and continuous learning.  
 
-🎓 **Academic Background**  
-📌 **M.Sc. in Mathematical and Technological Education** (UFPE) *(Feb 2025 - Feb 2027)*  
-📌 **MBA in Business Analytics and Data Science** (UNICAP) *(Sep 2023 - Oct 2024)*  
-📌 **Postgraduate in Python Systems Development** (UniCesumar) *(May 2024 - Mar 2025)*  
-📌 **B.Sc. in Systems Analysis and Development** (Senac) *(Jul 2020 - Jan 2023)*  
+🎓 Outside work, I’m advancing academically through:
+- **M.Sc. in Mathematical and Technological Education** *(UFPE | 2025–2027)*
+- **MBA in Business Analytics and Data Science** *(UNICAP | 2023–2024)*
+- **Postgrad in Python Systems Development** *(UniCesumar | 2024–2025)*  
+- **B.Sc. in Systems Analysis and Development** *(Senac | 2020–2023)*
+
+📚 I believe education, automation, and transparency are key pillars for innovation in the public and private sectors.
 
 ---
 
@@ -58,6 +68,11 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IsraelMonteiro&layout=compact&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsraelMonteiro&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=IsraelMonteiro&theme=highcontrast&date_format=M%20j)](https://git.io/streak-stats)
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IsraelMonteiro&theme=high-contrast)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
 
 ---
 
