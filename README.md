@@ -4,11 +4,22 @@
   <img src="image/Design sem nome.png" alt="Israel Monteiro" width="200" style="border-radius: 50%;" />
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=IsraelMonteiro&label=Profile%20Views&color=0e75b6&style=flat) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-israelsmonteiro-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/israelsmonteiro/)
-[![Lattes](https://img.shields.io/badge/Lattes-Perfil-blue)](https://lattes.cnpq.br/6908410029291276)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=IsraelMonteiro&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://www.linkedin.com/in/israelsmonteiro/">
+    <img src="https://img.shields.io/badge/LinkedIn-israelsmonteiro-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://lattes.cnpq.br/6908410029291276">
+    <img src="https://img.shields.io/badge/Lattes-Perfil-blue" alt="Lattes" />
+  </a>
+</p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=IsraelMonteiro&theme=darkhub&margin-w=10&margin-h=10)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=IsraelMonteiro&theme=darkhub&margin-w=10&margin-h=10" alt="GitHub Trophy" />
+  </a>
+</p>
+
 
 ![Fun Badge](https://img.shields.io/badge/Welcome%20Visitor-You're%20awesome!-%23ff69b4?style=for-the-badge)
 
@@ -86,5 +97,3 @@
 ## ⭐ Show Support
 
 If you find my work helpful, consider giving a **⭐ star** to my repositories!
-
-
