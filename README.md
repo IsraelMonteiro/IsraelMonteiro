@@ -80,10 +80,9 @@
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IsraelMonteiro&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=IsraelMonteiro&theme=highcontrast&date_format=M%20j)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=IsraelMonteiro&theme=dark)](https://git.io/streak-stats)
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=IsraelMonteiro&theme=high-contrast)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
 
 ---
 
