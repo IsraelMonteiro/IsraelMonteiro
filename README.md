@@ -1,7 +1,7 @@
 # <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Hi there! I'm Israel Monteiro
 
 <p align="center">
-  <img src="image/Design sem nome.png" alt="Israel Monteiro" width="200" style="border-radius: 50%;" />
+  <img src="image/isra_image.png" alt="Israel Monteiro" width="200" style="border-radius: 50%;" />
 </p>
 
 <p align="center">
